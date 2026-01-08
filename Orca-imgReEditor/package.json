@@ -1,5 +1,5 @@
 {
-  "name": "orca-plugin-template",
+  "name": "Orca-imgReEditor",
   "version": "2.7.2",
   "type": "module",
   "main": "dist/index.js",
